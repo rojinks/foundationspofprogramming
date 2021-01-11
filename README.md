@@ -1,2 +1,3 @@
 # foundationspofprogramming
 jabajaba
+Details...
